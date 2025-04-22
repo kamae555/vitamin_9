@@ -16,7 +16,10 @@ This project demonstrates how to manage global state using Redux and style your 
 
 ## 🖥️ Demo Video
 
-Watch the demo of the app in GITHUB
+Watch the demo of the app in YOUTUBE :
+HERE'S THE LINK 
+https://youtu.be/I6U8IsXr9Cg
+
 
 ---
 
